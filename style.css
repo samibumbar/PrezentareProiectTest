@@ -1,8 +1,8 @@
-body{
+/* body{
 margin: 0;
 padding: 0;
 font-family: 'Courier New', Courier, monospace;
-/* background: radial-gradient(circle, yellow, rgb(221, 219, 219), grey); */
+/* background: radial-gradient(circle, yellow, rgb(221, 219, 219), grey); 
 background: linear-gradient(to right, #336ce7, rgb(221, 219, 219), #90EE90);
 }
 .wrapper{
@@ -42,4 +42,4 @@ h1{
     font-weight: 600;
    
 
-}
+} */
